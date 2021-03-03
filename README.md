@@ -52,7 +52,7 @@ Usual zombie - just ont bullet needed to kill him (her, haha).
 
 Fast zombie - as usual, but faster and stronger
 
-cloning zombie - little zombie. Jumps. Makes his own copy every 2-3 seconds. Keep an eye on him (them, haha) 
+Cloning zombie - little zombie. Jumps. Makes his own copy every 2-3 seconds. Keep an eye on him (them, haha) 
 
 Boss zombie - large zombie with a lot of hp (10, haha). Produces fast zombies.
 
