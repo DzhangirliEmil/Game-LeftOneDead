@@ -39,6 +39,8 @@
 
 Для удобства сделана иерархия классов проекта с помощью сайта draw.io, представленная ниже.![Project](https://user-images.githubusercontent.com/79907936/109654536-57d58a80-7b73-11eb-9f78-4a8350609854.jpg)
 
+Созданная иерархия классов позволяет быстро создавать новых персонажей и элементов интерфейса.
+
 
 В файле requirements.txt указаны библиотеки, которые должны быть предустановлены для корректной работы программы.
 
@@ -47,6 +49,25 @@ You are playing as a hero who has risen against an intimidating horde of zombies
 
 There are 4 zombies you will have to fight to.
 
-Usual zombie - just ont bullet needed to kill him (her, haha). Fast zombie - as usual, but faster cloning zombie - little zombie. Jumps. Makes his own copy every 2-3 seconds. Keep an eye on him (them, haha) Boss zombie - large zombie with a lot of hp (10, haha). Produces fast zombies.
+Usual zombie - just ont bullet needed to kill him (her, haha). 
+
+Fast zombie - as usual, but faster and stronger
+
+cloning zombie - little zombie. Jumps. Makes his own copy every 2-3 seconds. Keep an eye on him (them, haha) 
+
+Boss zombie - large zombie with a lot of hp (10, haha). Produces fast zombies.
+
+# GamePlay screenshots
+![image](https://user-images.githubusercontent.com/79907936/109774789-c79a5280-7c11-11eb-9034-23eb41f1c4ab.png)
+![image](https://user-images.githubusercontent.com/79907936/109775027-0a5c2a80-7c12-11eb-95ad-e87ac4f9a9af.png)
+![image](https://user-images.githubusercontent.com/79907936/109775135-2d86da00-7c12-11eb-918c-6242461bc413.png)
+
+# User interface screenshots
+![image](https://user-images.githubusercontent.com/79907936/109775512-a6863180-7c12-11eb-860f-79cf084d3372.png)
+![image](https://user-images.githubusercontent.com/79907936/109775567-b4d44d80-7c12-11eb-96ee-c2a9bf64fd30.png)
+![image](https://user-images.githubusercontent.com/79907936/109775607-c4ec2d00-7c12-11eb-9f9e-66d8b6f2782b.png)
+
+
+
 
 
