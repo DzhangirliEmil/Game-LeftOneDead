@@ -1,6 +1,6 @@
 # Game-LeftOneDead
 
- Эта игра - платформер, в котором герой должен справиться с ордой зомби разной силы, поведением и свойствами, постепенно продвигаясь по уровням.
+ Эта игра - платформер, в котором герой должен справиться с ордой зомби разной силы, поведения и свойств, постепенно продвигаясь по уровням.
 
 Ниже представлены используемые патеррны проектирования.
 
@@ -57,7 +57,7 @@ cloning zombie - little zombie. Jumps. Makes his own copy every 2-3 seconds. Kee
 Boss zombie - large zombie with a lot of hp (10, haha). Produces fast zombies.
 
 # GamePlay screenshots
-![image](https://user-images.githubusercontent.com/79907936/109774789-c79a5280-7c11-11eb-9034-23eb41f1c4ab.png)
+![image](https://user-images.githubusercontent.com/79907936/109777075-5c9e4b00-7c14-11eb-80a2-d79db0adabea.png)
 ![image](https://user-images.githubusercontent.com/79907936/109775027-0a5c2a80-7c12-11eb-95ad-e87ac4f9a9af.png)
 ![image](https://user-images.githubusercontent.com/79907936/109775135-2d86da00-7c12-11eb-918c-6242461bc413.png)
 
