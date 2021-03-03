@@ -46,7 +46,7 @@
 # Description for player.
 You are playing as a hero who has risen against an intimidating horde of zombies, thereby your aim is to crush them while remaining alive:) The control is quite simple: you are able to move using keys Left and Right, jump within Up key and shoot your foes down with Down key. Good luck! It will certainly help you:)
 
-There are 4 zombies you will have to fight to.
+There are 4 types of zombies you will have to fight to.
 
 Usual zombie - just ont bullet needed to kill him (her, haha). 
 
